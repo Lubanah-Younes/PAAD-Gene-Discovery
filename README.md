@@ -1,4 +1,14 @@
 # PAAD Gene Discovery – Genome‑Wide Analysis of Pancreatic Adenocarcinoma
+# PAAD-Gene-Discovery
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22049272.svg)](https://doi.org/10.5281/zenodo.22049272)
+
+## Description
+Initial release of the PAAD-Gene-Discovery project. Includes data processing scripts, machine learning feature importance analysis (Random Forest), and survival analysis (Kaplan-Meier curves) for identifying prognostic biomarkers in Pancreatic Adenocarcinoma (PAAD) using TCGA data.
+
+## Citation
+If you use this code in your research, please cite it as:
+Lubanah Younes. (2026). PAAD-Gene-Discovery (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.22049272
 
 **Author:** Lubanah Younes  
 **Date:** March 2026  
