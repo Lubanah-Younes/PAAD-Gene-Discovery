@@ -1,0 +1,2 @@
+Rank,Term,P-value,Z-score,Combined Score,Genes,Adjusted P-value,Old P-value,Old Adjusted P-value
+1,Post-translational Modification: Synthesis Of GPI-anchored Proteins R-HSA-163125,0.00010145759537430765,39.44018506278916,362.68679987613535,"['TEX101', 'LYPD3', 'SPACA4']",0.005580167745586921,0,0
