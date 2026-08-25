@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 pandas>=1.5.0
 numpy>=1.23.0
 matplotlib>=3.6.0
 scikit-learn>=1.1.0
 shap>=0.41.0
+=======
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+scikit-learn>=1.1.0
+shap>=0.41.0
+>>>>>>> 294decec7ad26023ac0b81cd72a11924c660c215
 lifelines>=0.27.0
